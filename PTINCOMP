@@ -8,7 +8,11 @@ font-family: Baskerville;
 font-style: italic;
 box-sizing: border-box;
 scroll-behavior: smooth;}
-body {background-color: #34283F;
+body {background-image: url("https://imgur.com/APSOfb8.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center;
 color: #34283F;
 margin: 0;
 padding: 20px;}
@@ -89,6 +93,7 @@ padding: 8px;}
 .copyright {font-size: 13px;
 letter-spacing: 2px;
 margin-top: 30px;}
+
 </style>
 </head>
 <body>
@@ -109,25 +114,28 @@ margin-top: 30px;}
 <section id="planets" class="card">
 <p class="number">01 — OUR SOLAR SYSTEM</p>
 <h2>THE PLANETS</h2>
+<img src=https://imgur.com/OxNb3sy.jpg alt="Planets">
 <p style="color: #7F5388; font-size: 45px;">☾ ✦ 🪐 ✦ ☽</p>
 <p>Our solar system has eight planets that orbit the Sun. Each planet has unique features that make it special.</p>
 </section>
 <section id="stars" class="card">
 <p class="number">02 — LIGHT IN THE SKY</p>
 <h2>THE STARS</h2>
+<img src=https://imgur.com/rNE1PrE.jpg alt="Planets">
 <p style="color: #7F5388; font-size: 45px;">✦ ⋆ ★ ⋆ ✦</p>
 <p>Stars are huge balls of hot gas that produce light and heat. The Sun is the closest star to Earth.</p>
 </section>
 <section id="galaxies" class="card">
 <p class="number">03 — BEYOND THE STARS</p>
 <h2>THE GALAXIES</h2>
+<img src=https://imgur.com/ZXhheCf.jpg alt="Planets">
 <p style="color: #7F5388; font-size: 45px;">☄ ✧ ☄</p>
 <p>Galaxies contain billions of stars, gas, and dust. Our solar system is part of the Milky Way galaxy.</p>
 </section>
 <section id="about" class="card">
 <p class="number">04 — LEARN SOMETHING NEW</p>
 <h2>WHAT IS ASTRONOMY?</h2>
-<img src=https://imgur.com/OxNb3sy.jpg alt="Planets">
+<img src=https://imgur.com/340lTxz.jpg alt="Planets">
 <p>Astronomy is the study of objects and events in space. It helps us understand the universe and our place in it.</p>
 </section>
 </main>
@@ -136,6 +144,11 @@ margin-top: 30px;}
 <p>Keep looking up and stay curious.</p>
 <a href="#home">BACK TO TOP ↑</a>
 <p class="copyright">© 2026 ALL ABOUT ASTRONOMY</p>
+
+<a href="https://ysabbie.github.io/nutrition-month/" class="button">Nutrition Month</a>
+<a href="https://ysabbie.github.io/ptbuwanngwika/" class="button">Buwan ng Wika</a>
+<a href="https://ysabbie.github.io/ysabb/" class="button">Personal information</a>
+
 </footer>
 </body>
 </html>
